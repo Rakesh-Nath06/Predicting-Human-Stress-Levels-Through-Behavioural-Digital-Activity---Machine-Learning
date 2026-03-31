@@ -20,7 +20,7 @@
 
 ---
 
-## 🔥 Confusion Matrix (Best Model - Random Forest)
+## 🔥 Confusion Matrix (Best Model - GradientBoostingClassifier)
 
 <p align="center">
   <img src="confusion_matrix.png" width="500"/>
