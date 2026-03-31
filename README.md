@@ -1,4 +1,4 @@
-# 🧠 Stress Level Prediction (Machine Learning)
+# # 🧠 Predicting Human Stress Levels Through Behavioral and Digital Activity
 
 📊 Machine learning project to classify human stress levels (Low / Medium / High) using behavioral and digital activity data.
 
